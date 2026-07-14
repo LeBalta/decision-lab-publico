@@ -1,0 +1,26 @@
+
+Modelo de Classificação de Risco de Baixa Empregabilidade Territorial
+
+Total de registros: 47
+Features utilizadas: ['taxa_desocupacao', 'indice_gini', 'taxa_pobreza', 'taxa_analfabetismo']
+Variável-alvo: risco_baixa_empregabilidade
+
+Métricas com validação cruzada 5-fold:
+
+Accuracy: 0.8723
+Precision: 0.8750
+Recall: 0.8750
+F1-score: 0.8750
+ROC-AUC: 0.9266
+
+Relatório de classificação:
+
+              precision    recall  f1-score   support
+
+           0       0.87      0.87      0.87        23
+           1       0.88      0.88      0.88        24
+
+    accuracy                           0.87        47
+   macro avg       0.87      0.87      0.87        47
+weighted avg       0.87      0.87      0.87        47
+

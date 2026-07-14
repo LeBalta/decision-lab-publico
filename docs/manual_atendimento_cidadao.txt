@@ -1,0 +1,7 @@
+Manual de Atendimento ao Cidadão
+
+O atendimento deve começar pela identificação clara da demanda, sem solicitar dados desnecessários.
+Quando a demanda envolver serviço público, o servidor deve informar prazo, canal de acompanhamento e secretaria responsável.
+Em caso de reclamação, a resposta deve explicar o que foi registrado, qual setor analisará e qual o próximo passo.
+O atendente não deve prometer solução imediata quando depender de análise técnica ou orçamento.
+Toda orientação deve ser registrada para permitir rastreabilidade e melhoria contínua do serviço.
